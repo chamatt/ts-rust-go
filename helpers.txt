@@ -1,0 +1,1 @@
+go mod init main && cargo init && yarn init -y
