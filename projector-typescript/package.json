@@ -1,0 +1,19 @@
+{
+  "name": "projector-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "@types/node": "^18.7.13",
+    "command-line-args": "^5.2.1",
+    "env-paths": "^3.0.0",
+    "ts-node": "^10.9.1",
+    "tsx": "^3.8.2",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts"
+  }
+}
